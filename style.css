@@ -1,0 +1,13 @@
+html {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: navy;
+    height: 100px;
+}
+
+.introduction {
+    height: 300px;
+    width: 400px;
+}
